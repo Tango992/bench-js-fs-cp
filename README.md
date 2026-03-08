@@ -27,5 +27,5 @@ bun run index.js
 ### Deno
 
 ```bash
-deno run -A --node-modules-dir=auto --v8-flags="--expose-gc" index.js
+deno run -A --v8-flags="--expose-gc" index.js
 ```
