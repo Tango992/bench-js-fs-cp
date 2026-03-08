@@ -1,0 +1,16 @@
+{
+  "name": "bench-fs-cp",
+  "version": "1.0.0",
+  "description": "",
+  "license": "UNLICENSED",
+  "author": "Tango992",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@mitata/counters": "^0.0.8",
+    "mitata": "^1.0.34"
+  }
+}
